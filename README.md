@@ -41,11 +41,5 @@ It fetches live weather data using the OpenWeather API and displays temperature,
 
 - More detailed weather info (wind, pressure, sunrise/sunset)
 ---
-## ⚙ Installation and Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/temptrack.git
-cd temptrack
-
-# Open index.html directly in browser
+ 
+ 

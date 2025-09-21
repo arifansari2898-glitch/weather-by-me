@@ -202,21 +202,7 @@ nav ul li a {
     border-radius: 15px;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
   }
-  #screen {
-  width: 90vw; /* Use viewport width for a truly responsive container */
-  max-width: 500px; /* Optional: to prevent it from getting too wide on large screens */
-  margin: 20px auto;
-  border-radius: 15px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
-}
-
-@media screen and (min-width: 768px) {
-  #screen {
-    margin: 50px auto;
-    border-radius: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.494);
-  }
-}
+   
 
   nav{
     border-radius: 0 0 20px 20px;

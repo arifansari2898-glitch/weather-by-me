@@ -5,7 +5,7 @@
 A sleek and lightweight weather application built with HTML, CSS, JavaScript.  
 It fetches live weather data using the OpenWeather API and displays temperature, conditions, and location details in real time.
 
-🔗 Live Demo: [TempTrack on Vercel](#)  
+🔗 Live Demo: [TempTrack on Vercel](https://weather-by-me.vercel.app/index.html)  
 📂 GitHub Repo: [TempTrack Repository](#)
 
 ---

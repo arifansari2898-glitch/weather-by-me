@@ -222,11 +222,10 @@ h3 {
     height: 120px;
   } 
 }
-.footer {
-  background: #0077b6;
-  color: white;
+ .footer{
+  
   text-align: center;
   padding: 10px 20px;
   font-size: 14px;
-  box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
-}
+  
+} 
